@@ -5,15 +5,17 @@ HTML에서 Typescript Code를 돌릴 수 있도록 도와줍니다!
 ## Usage
 
 ```html
-<script type="text/typescript">
-    // Example Code
-    var text: string = 'hi, there!';
-    alert(text);
+<body>
+    <script type="text/typescript">
+        // Example Code
+        var text: string = 'hi, there!';
+        alert(text);
 
-    // Insert your code
-</script>
+        // Insert your code
+    </script>
 
-<script type="text/javascript" src="https://rhea-so.github.io/TypescriptCompiler/module.js"></script>
+    <script type="text/javascript" src="https://rhea-so.github.io/TypescriptCompiler/module.js"></script>
+</body>
 ```
 
 [demo](https://rhea-so.github.io/TypescriptCompiler/demo.html)
