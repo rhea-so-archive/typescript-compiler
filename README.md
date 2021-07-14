@@ -18,7 +18,11 @@ HTML에서 Typescript Code를 돌릴 수 있도록 도와줍니다!
 </body>
 ```
 
-[demo](https://rhea-so.github.io/TypescriptCompiler/demo.html)
+## Demo
+
+* [기초적인 사용 방법](https://rhea-so.github.io/TypescriptCompiler/basic-demo.html)
+* [외부에서 타입스크립트 파일을 불러오기](https://rhea-so.github.io/TypescriptCompiler/import-typescript-file-demo.html)
+
 
 ## Support Git History
 
