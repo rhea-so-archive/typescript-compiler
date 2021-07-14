@@ -1,2 +1,2 @@
-document.write(`<script type="text/typescript" src="https://rhea-so.github.io/TypescriptCompiler/01_Compiler/typescript.min.js"></script>`);
-document.write(`<script type="text/typescript" src="https://rhea-so.github.io/TypescriptCompiler/01_Compiler/typescript.compile.min.js"></script>`);
+document.write(`<script type="text/javascript" src="https://rhea-so.github.io/TypescriptCompiler/01_Compiler/typescript.min.js"></script>`);
+document.write(`<script type="text/javascript" src="https://rhea-so.github.io/TypescriptCompiler/01_Compiler/typescript.compile.min.js"></script>`);
